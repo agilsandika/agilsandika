@@ -7,6 +7,7 @@ The tools i use:
 - AI Agents
 - Web3 / Blockchain
 - DeFi
+how to react me
 LinkedIn: Agil Sandika
 <!--
 **agilsandika/agilsandika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
