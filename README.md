@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+I'm AGIL, an aspiring Web3 Developer interested in blockchain technology, AI Agents, and decentralized applications.
+Currently learning and building projects around Web3 development, Solidity, AI Agents, Python, and blockchain technologies.
+The tools i use:
+- Solidity
+- Python
+- AI Agents
+- Web3 / Blockchain
+- DeFi
+LinkedIn: Agil Sandika
 <!--
 **agilsandika/agilsandika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
